@@ -4,7 +4,8 @@ Repo for COMP 4004
 
 ## Assignment 1 (A1)
 
-1. Performed Junit test on Rummikub Game Made by me.
+1. Performed Junit test on Rummikub Game Made by me
+2. Performed developement using the TDD approach
 
 ## Assignment 2 and 3 (A2)
 
